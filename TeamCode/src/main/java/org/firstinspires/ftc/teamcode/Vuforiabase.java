@@ -32,7 +32,7 @@ public class Vuforiabase extends LinearOpMode {
     private static final VuforiaLocalizer.CameraDirection CAMERA_CHOICE = BACK;
     private static final boolean PHONE_IS_PORTRAIT = false  ;
     private static final String VUFORIA_KEY =
-            "ASdeW4n/////AAAAGQ3gx37Bok5bsetrw+NOuwA8Kmy/dauF2oHhHyy3O7LATTKCJEVWGQQzVWtFJ/55ZJ1KNV16pgUPrWLe1Wc0U2NHlzhWnJ3VaXgkeTjxf6vwUDP1TyYKzu3q9Ktyx2G+a5tukSVqWWGBqVCDiHv5U0ZVdRVqNHN/t+7Yitb27kTIfzsbnN5lLFjReHUSt5Utz9KCfBNVqdrNEGN2eP3u2BcV7sOsfSsZW4bc9ukXCkMgbjaevpzjj3LNtLklmHAXCiU+znKM6rs2rz+ALu3O4U5R1oRI+thosXU1gJGsFeV6H/RN17BpEZ61haJnp2i7C6osy6ffgNk8V8b2pg83Og9aQ3L8aFgxUoFZnEdFBfLN";
+            "#Vuforia-Key-goes-Here";
 
     // Since ImageTarget trackables use mm to specifiy their dimensions, we must use mm for all the physical dimension.
     // We will define some constants and conversions here
